@@ -55,8 +55,8 @@ Project Lead – K.Pujitha
 
 Frontend Developer – K.Srivalli
 
-Backend Developer – K.Anitha Gayathri
+Backend Developer – K.Veera mounika jyothi
 
-Testing & Deployment – K.Veera Mounika Jyothi
+Testing & Deployment – K.Anitha Gayathri
 
 
